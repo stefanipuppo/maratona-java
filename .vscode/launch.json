@@ -1,0 +1,251 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EstudanteTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.EstudanteTest02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aula01OlaDevDojo",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula01OlaDevDojo",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula02TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula03TiposPrimitivosExercicio",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula04Operadores",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula04Operadores",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula05EstruturasCondicionais01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula05EstruturasCondicionais02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula05EstruturasCondicionais03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais03",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula05EstruturasCondicionais04",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais04",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula05EstruturasCondicionais05",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais05",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula05EstruturasCondicionais06",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais06",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula06EstruturasDeRepeticao01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula06EstruturasDeRepeticao02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula06EstruturasDeRepeticao03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao03",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula06EstruturasDeRepeticao04",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao04",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula06EstruturasDeRepeticao05",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao05",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula07Arrays01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula07Arrays01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula07Arrays02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula07Arrays02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula07Arrays03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula07Arrays03",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula08ArraysMultimensionais01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula08ArraysMultimensionais01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "Aula08ArraysMultimensionais02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.introducao.Aula08ArraysMultimensionais02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "CarroTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.aintroducaoclasses.test.CarroTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.aintroducaoclasses.test.EstudanteTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.aintroducaoclasses.test.EstudanteTest02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "ProfessorTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.aintroducaoclasses.test.ProfessorTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.CalculadoraTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.CalculadoraTest02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.CalculadoraTest03",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest04",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.CalculadoraTest04",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest01(1)",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.EstudanteTest01",
+            "projectName": "maratona-java_5b23c769"
+        }
+    ]
+}
