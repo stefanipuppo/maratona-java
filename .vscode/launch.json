@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AssociacaoTeste",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.gassociacao.Test.AssociacaoTeste",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "LeituraDoTecladoTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.gassociacao.Test.LeituraDoTecladoTest02",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "LeituraDoTecladoTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.gassociacao.Test.LeituraDoTecladoTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dconstrutores.Test.AnimeTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.csobrecargametodos.Test.AnimeTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.PessoaTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
+            "name": "FuncinarioTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.FuncinarioTest01",
+            "projectName": "maratona-java_5b23c769"
+        },
+        {
+            "type": "java",
             "name": "EstudanteTest02",
             "request": "launch",
             "mainClass": "academy.devdojo.maratonajava.javacore.bintroducaometodos.test.EstudanteTest02",
